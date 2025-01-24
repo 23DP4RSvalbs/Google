@@ -33,8 +33,9 @@ main {
 }
 
 .Google {
-  width: 350px;
-  max-width: 80%;
+  width: 265px;
+  max-width: 72%;
+  margin-bottom: 23px;
 }
 
 .search-form {
@@ -105,8 +106,8 @@ main {
 footer {
   display: flex;
   justify-content: space-between;
-  padding: 10px 20px;
-  background-color: #fff;
+  padding: 10px 1px;
+  background-color: #f4f4f4;
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -114,7 +115,7 @@ footer {
 
 footer a {
   text-decoration: none;
-  color: #555;
+  color: #4d4d4d;
   margin: 0 10px;
 }
 
